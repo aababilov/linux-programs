@@ -1,0 +1,27 @@
+locales perl apt aptitude perl lsb-base debconf-utils
+apt-utils dosfstools e2fsprogs reiserfsprogs util-linux
+binutils bzip2 coreutils file findutils grep grub gzip
+mc
+dialog tar kbd 
+synaptic  xserver-xorg-core  xserver-xorg-input-all
+xorg xserver-xorg xserver-xorg-video-all
+adduser
+apt
+apt-utils aptitude base-files base-passwd bash bsdutils bzip2
+console-tools coreutils dash debconf debianutils
+dhcp3-client diff dpkg e2fsprogs eject ethtool findutils gettext-base
+grep gzip hostname ifupdown initramfs-tools iproute iputils-ping
+less libc6-i686 locales login lsb-release makedev mawk
+mktemp module-init-tools mount ncurses-base ncurses-bin
+net-tools netbase netcat passwd pciutils pcmciautils perl-base
+procps python python-minimal sed startup-tasks sudo sysklogd
+system-services tar tzdata ubuntu-keyring udev upstart
+upstart-compat-sysv upstart-logd usbutils util-linux
+util-linux-locales 
+
+nano
+casper
+-b
+gnome-terminal
+ttf-bitstream-vera
+ttf-freefont

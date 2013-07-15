@@ -1,0 +1,7 @@
+/etc/passwd
+/etc/group
+/etc/gshadow
+/etc/shadow
+/etc/profile
+/etc/bash.bashrc
+/etc/locale.gen

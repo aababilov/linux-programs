@@ -1,0 +1,13 @@
+*~
+*.exe
+*.dll
+*.ddp
+*.obj
+*.dof
+*.dcu
+*.cfg
+*.o
+*.so
+*.so.*
+*.a
+*.la
